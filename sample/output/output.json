@@ -151,12 +151,12 @@
       "text": "me"
     },
     {
-      "start": 29.11,
+      "start": 39.37,
       "end": 70.13,
       "text": "on"
     },
     {
-      "start": 29.11,
+      "start": 39.37,
       "end": 70.13,
       "text": "shore"
     },
@@ -635,22 +635,22 @@
       "text": "hand"
     },
     {
-      "start": 40.53,
+      "start": 70.13,
       "end": 77.88,
       "text": "of"
     },
     {
-      "start": 40.53,
+      "start": 70.13,
       "end": 77.88,
       "text": "me"
     },
     {
-      "start": 40.53,
+      "start": 70.13,
       "end": 77.88,
       "text": "that"
     },
     {
-      "start": 40.53,
+      "start": 70.13,
       "end": 77.88,
       "text": "it"
     },
@@ -757,8 +757,9 @@
       "text": "knocking"
     },
     {
-      "start": 71.1,
-      "end": 86.04,
+      "id": 170,
+      "start": 77.88,
+      "end": 78.34,
       "text": "people’s"
     },
     {
@@ -918,8 +919,9 @@
       "text": "With"
     },
     {
-      "start": 86.1,
-      "end": 89.62,
+      "id": 198,
+      "start": 88.1,
+      "end": 88.29,
       "text": "a"
     },
     {
@@ -935,9 +937,10 @@
       "text": "flourish"
     },
     {
-      "start": 88.29,
-      "end": 100.26,
-      "text": "cato"
+      "id": 201,
+      "start": 89.62,
+      "end": 90.08,
+      "text": "Cato"
     },
     {
       "id": 202,
@@ -1102,9 +1105,10 @@
       "text": "their"
     },
     {
-      "start": 90.08,
-      "end": 105.68,
-      "text": "degree"
+      "id": 229,
+      "start": 100.26,
+      "end": 100.94,
+      "text": "degree,"
     },
     {
       "id": 230,
@@ -1191,47 +1195,47 @@
       "text": "with"
     },
     {
-      "start": 100.95,
+      "start": 105.68,
       "end": 114.49,
       "text": "methere"
     },
     {
-      "start": 100.95,
+      "start": 105.68,
       "end": 114.49,
       "text": "now"
     },
     {
-      "start": 100.95,
+      "start": 105.68,
       "end": 114.49,
       "text": "is"
     },
     {
-      "start": 100.95,
+      "start": 105.68,
       "end": 114.49,
       "text": "your"
     },
     {
-      "start": 100.95,
+      "start": 105.68,
       "end": 114.49,
       "text": "insular"
     },
     {
-      "start": 100.95,
+      "start": 105.68,
       "end": 114.49,
       "text": "city"
     },
     {
-      "start": 100.95,
+      "start": 105.68,
       "end": 114.49,
       "text": "of"
     },
     {
-      "start": 100.95,
+      "start": 105.68,
       "end": 114.49,
       "text": "the"
     },
     {
-      "start": 100.95,
+      "start": 105.68,
       "end": 114.49,
       "text": "manhattoes"
     },
@@ -1296,9 +1300,10 @@
       "text": "coral"
     },
     {
-      "start": 109.89,
-      "end": 116.17,
-      "text": "commerce"
+      "id": 266,
+      "start": 114.71,
+      "end": 115.19,
+      "text": "reefs"
     },
     {
       "id": 267,
@@ -1325,9 +1330,10 @@
       "text": "with"
     },
     {
-      "start": 115.23,
-      "end": 119.06,
-      "text": "surf"
+      "id": 271,
+      "start": 116.17,
+      "end": 116.71,
+      "text": "her"
     },
     {
       "id": 272,
@@ -1372,7 +1378,7 @@
       "text": "take"
     },
     {
-      "start": 117.31,
+      "start": 119.06,
       "end": 123.73,
       "text": "waterward"
     },
@@ -1431,12 +1437,12 @@
       "text": "that"
     },
     {
-      "start": 120.58,
+      "start": 123.73,
       "end": 127.91,
       "text": "mole"
     },
     {
-      "start": 120.58,
+      "start": 123.73,
       "end": 127.91,
       "text": "is"
     },
@@ -1489,7 +1495,7 @@
       "text": "breezes,"
     },
     {
-      "start": 124.31,
+      "start": 127.91,
       "end": 133.18,
       "text": "a"
     },
@@ -1590,27 +1596,27 @@
       "text": "water"
     },
     {
-      "start": 127.98,
+      "start": 133.18,
       "end": 138.72,
       "text": "therecircumambulate"
     },
     {
-      "start": 127.98,
+      "start": 133.18,
       "end": 138.72,
       "text": "the"
     },
     {
-      "start": 127.98,
+      "start": 133.18,
       "end": 138.72,
       "text": "city"
     },
     {
-      "start": 127.98,
+      "start": 133.18,
       "end": 138.72,
       "text": "of"
     },
     {
-      "start": 127.98,
+      "start": 133.18,
       "end": 138.72,
       "text": "a"
     },
@@ -1645,8 +1651,8 @@
       "text": "afternoon."
     },
     {
-      "start": 139.33,
-      "end": 139.98,
+      "start": null,
+      "end": null,
       "text": "corlears"
     },
     {
@@ -1662,8 +1668,8 @@
       "text": "Corlears"
     },
     {
-      "start": 140.56,
-      "end": 147.52,
+      "start": null,
+      "end": null,
       "text": "coenties"
     },
     {
@@ -1763,8 +1769,8 @@
       "text": "silent"
     },
     {
-      "start": 147.79,
-      "end": 155.14,
+      "start": null,
+      "end": null,
       "text": "around"
     },
     {
@@ -1870,8 +1876,8 @@
       "text": "leaning"
     },
     {
-      "start": 155.79,
-      "end": 157.22,
+      "start": null,
+      "end": null,
       "text": "spiles"
     },
     {
@@ -1899,38 +1905,38 @@
       "text": "seated"
     },
     {
-      "start": 160.15,
-      "end": 162.34,
+      "start": null,
+      "end": null,
       "text": "pier"
     },
     {
-      "start": 160.15,
-      "end": 162.34,
+      "start": null,
+      "end": null,
       "text": "heads"
     },
     {
-      "start": 160.15,
-      "end": 162.34,
+      "start": null,
+      "end": null,
       "text": "some"
     },
     {
-      "start": 160.15,
-      "end": 162.34,
+      "start": null,
+      "end": null,
       "text": "looking"
     },
     {
-      "start": 160.15,
-      "end": 162.34,
+      "start": null,
+      "end": null,
       "text": "over"
     },
     {
-      "start": 160.15,
-      "end": 162.34,
+      "start": null,
+      "end": null,
       "text": "the"
     },
     {
-      "start": 160.15,
-      "end": 162.34,
+      "start": null,
+      "end": null,
       "text": "bulwarks"
     },
     {
@@ -1964,18 +1970,18 @@
       "text": "from"
     },
     {
-      "start": 163.13,
-      "end": 163.69,
+      "start": null,
+      "end": null,
       "text": "high"
     },
     {
-      "start": 163.13,
-      "end": 163.69,
+      "start": null,
+      "end": null,
       "text": "aloft"
     },
     {
-      "start": 163.13,
-      "end": 163.69,
+      "start": null,
+      "end": null,
       "text": "in"
     },
     {
@@ -1991,13 +1997,13 @@
       "text": "in"
     },
     {
-      "start": 164.23,
-      "end": 165.92,
+      "start": null,
+      "end": null,
       "text": "as"
     },
     {
-      "start": 164.23,
-      "end": 165.92,
+      "start": null,
+      "end": null,
       "text": "if"
     },
     {
@@ -2037,8 +2043,8 @@
       "text": "a"
     },
     {
-      "start": 166.47,
-      "end": 168.36,
+      "start": null,
+      "end": null,
       "text": "seaward"
     },
     {
@@ -2072,13 +2078,13 @@
       "text": "these"
     },
     {
-      "start": 170.24,
-      "end": 170.76,
+      "start": null,
+      "end": null,
       "text": "landsmen"
     },
     {
-      "start": 170.24,
-      "end": 170.76,
+      "start": null,
+      "end": null,
       "text": "of"
     },
     {
@@ -2088,8 +2094,8 @@
       "text": "landsmen;"
     },
     {
-      "start": 170.55,
-      "end": 174.2,
+      "start": null,
+      "end": null,
       "text": "days"
     },
     {
@@ -2153,13 +2159,13 @@
       "text": "to"
     },
     {
-      "start": 175.92,
-      "end": 177.3,
+      "start": null,
+      "end": null,
       "text": "to"
     },
     {
-      "start": 175.92,
-      "end": 177.3,
+      "start": null,
+      "end": null,
       "text": "benches"
     },
     {
@@ -2169,8 +2175,8 @@
       "text": "to"
     },
     {
-      "start": 177.03,
-      "end": 178.86,
+      "start": null,
+      "end": null,
       "text": "to"
     },
     {
@@ -2204,7 +2210,7 @@
       "text": "then"
     },
     {
-      "start": 177.3,
+      "start": 178.86,
       "end": 181.1,
       "text": "are"
     },
@@ -2251,7 +2257,7 @@
       "text": "What"
     },
     {
-      "start": 182.81,
+      "start": 183.49,
       "end": 189.73,
       "text": "herebut"
     },
@@ -2358,37 +2364,37 @@
       "text": "for"
     },
     {
-      "start": 192.39,
+      "start": 192.9,
       "end": 194.54,
       "text": "nothing"
     },
     {
-      "start": 192.39,
+      "start": 192.9,
       "end": 194.54,
       "text": "will"
     },
     {
-      "start": 192.39,
+      "start": 192.9,
       "end": 194.54,
       "text": "content"
     },
     {
-      "start": 192.39,
+      "start": 192.9,
       "end": 194.54,
       "text": "them"
     },
     {
-      "start": 192.39,
+      "start": 192.9,
       "end": 194.54,
       "text": "but"
     },
     {
-      "start": 192.39,
+      "start": 192.9,
       "end": 194.54,
       "text": "the"
     },
     {
-      "start": 192.39,
+      "start": 192.9,
       "end": 194.54,
       "text": "extremest"
     },
@@ -2405,7 +2411,7 @@
       "text": "the"
     },
     {
-      "start": 192.99,
+      "start": 194.54,
       "end": 195.32,
       "text": "the"
     },
@@ -2440,12 +2446,12 @@
       "text": "loitering"
     },
     {
-      "start": 195.8,
+      "start": 197.07,
       "end": 200.63,
       "text": "lee"
     },
     {
-      "start": 195.8,
+      "start": 197.07,
       "end": 200.63,
       "text": "of"
     },
@@ -2510,17 +2516,17 @@
       "text": "They"
     },
     {
-      "start": 201.14,
+      "start": 201.67,
       "end": 208.25,
       "text": "as"
     },
     {
-      "start": 201.14,
+      "start": 201.67,
       "end": 208.25,
       "text": "nigh"
     },
     {
-      "start": 201.14,
+      "start": 201.67,
       "end": 208.25,
       "text": "the"
     },
@@ -2621,7 +2627,7 @@
       "text": "miles"
     },
     {
-      "start": 209.32,
+      "start": 210.29,
       "end": 224.54,
       "text": "inlanders"
     },
@@ -2854,47 +2860,47 @@
       "text": "those"
     },
     {
-      "start": 228.41,
+      "start": 229.22,
       "end": 235.26,
       "text": "thitheronce"
     },
     {
-      "start": 228.41,
+      "start": 229.22,
       "end": 235.26,
       "text": "more"
     },
     {
-      "start": 228.41,
+      "start": 229.22,
       "end": 235.26,
       "text": "say"
     },
     {
-      "start": 228.41,
+      "start": 229.22,
       "end": 235.26,
       "text": "you"
     },
     {
-      "start": 228.41,
+      "start": 229.22,
       "end": 235.26,
       "text": "are"
     },
     {
-      "start": 228.41,
+      "start": 229.22,
       "end": 235.26,
       "text": "in"
     },
     {
-      "start": 228.41,
+      "start": 229.22,
       "end": 235.26,
       "text": "the"
     },
     {
-      "start": 228.41,
+      "start": 229.22,
       "end": 235.26,
       "text": "country"
     },
     {
-      "start": 228.41,
+      "start": 229.22,
       "end": 235.26,
       "text": "in"
     },
@@ -3013,7 +3019,7 @@
       "text": "one"
     },
     {
-      "start": 229.22,
+      "start": 235.26,
       "end": 239.76,
       "text": "in"
     },
@@ -3120,7 +3126,7 @@
       "text": "There"
     },
     {
-      "start": 240.6,
+      "start": 240.93,
       "end": 245.93,
       "text": "let"
     },
@@ -3215,7 +3221,7 @@
       "text": "deepest"
     },
     {
-      "start": 246.01,
+      "start": 246.68,
       "end": 247.39,
       "text": "on"
     },
@@ -3250,17 +3256,17 @@
       "text": "his"
     },
     {
-      "start": 248.36,
+      "start": 248.67,
       "end": 252.25,
       "text": "a"
     },
     {
-      "start": 248.36,
+      "start": 248.67,
       "end": 252.25,
       "text": "going"
     },
     {
-      "start": 248.36,
+      "start": 248.67,
       "end": 252.25,
       "text": "and"
     },
@@ -3331,7 +3337,7 @@
       "text": "water,"
     },
     {
-      "start": 252.36,
+      "start": 252.91,
       "end": 254.85,
       "text": "in"
     },
@@ -3378,7 +3384,7 @@
       "text": "region."
     },
     {
-      "start": 255.49,
+      "start": 255.76,
       "end": 259.07,
       "text": "athirst"
     },
@@ -3443,12 +3449,12 @@
       "text": "try"
     },
     {
-      "start": 260.14,
+      "start": 260.39,
       "end": 261.13,
       "text": "caravan"
     },
     {
-      "start": 260.14,
+      "start": 260.39,
       "end": 261.13,
       "text": "happen"
     },
@@ -3477,7 +3483,7 @@
       "text": "happen"
     },
     {
-      "start": 261.52,
+      "start": 263.07,
       "end": 264,
       "text": "a"
     },
@@ -3500,17 +3506,17 @@
       "text": "with"
     },
     {
-      "start": 264.58,
+      "start": 266.2,
       "end": 267.91,
       "text": "as"
     },
     {
-      "start": 264.58,
+      "start": 266.2,
       "end": 267.91,
       "text": "every"
     },
     {
-      "start": 264.58,
+      "start": 266.2,
       "end": 267.91,
       "text": "one"
     },
@@ -3551,27 +3557,27 @@
       "text": "meditation"
     },
     {
-      "start": 270.75,
+      "start": 271.81,
       "end": 273.41,
       "text": "for"
     },
     {
-      "start": 270.75,
+      "start": 271.81,
       "end": 273.41,
       "text": "everbut"
     },
     {
-      "start": 270.75,
+      "start": 271.81,
       "end": 273.41,
       "text": "here"
     },
     {
-      "start": 270.75,
+      "start": 271.81,
       "end": 273.41,
       "text": "is"
     },
     {
-      "start": 270.75,
+      "start": 271.81,
       "end": 273.41,
       "text": "an"
     },
@@ -3618,13 +3624,13 @@
       "text": "He"
     },
     {
-      "start": 274.47,
-      "end": 278.36,
+      "start": null,
+      "end": null,
       "text": "dreamiest"
     },
     {
-      "start": 274.47,
-      "end": 278.36,
+      "start": null,
+      "end": null,
       "text": "shadiest"
     },
     {
@@ -3670,8 +3676,8 @@
       "text": "most"
     },
     {
-      "start": 278.47,
-      "end": 279.37,
+      "start": null,
+      "end": null,
       "text": "in"
     },
     {
@@ -3705,8 +3711,8 @@
       "text": "in"
     },
     {
-      "start": 280.66,
-      "end": 283.02,
+      "start": null,
+      "end": null,
       "text": "saco"
     },
     {
@@ -3752,18 +3758,18 @@
       "text": "is"
     },
     {
-      "start": 284.29,
-      "end": 286.77,
+      "start": null,
+      "end": null,
       "text": "there"
     },
     {
-      "start": 284.29,
-      "end": 286.77,
+      "start": null,
+      "end": null,
       "text": "stand"
     },
     {
-      "start": 284.29,
-      "end": 286.77,
+      "start": null,
+      "end": null,
       "text": "his"
     },
     {
@@ -3809,7 +3815,7 @@
       "text": "each"
     },
     {
-      "start": 284.88,
+      "start": 286.77,
       "end": 287.28,
       "text": "if"
     },
@@ -3826,8 +3832,8 @@
       "text": "hollow"
     },
     {
-      "start": 287.45,
-      "end": 291.48,
+      "start": null,
+      "end": null,
       "text": "and"
     },
     {
@@ -3891,13 +3897,13 @@
       "text": "and"
     },
     {
-      "start": 292.27,
-      "end": 298.11,
+      "start": null,
+      "end": null,
       "text": "there"
     },
     {
-      "start": 292.27,
-      "end": 298.11,
+      "start": null,
+      "end": null,
       "text": "sleep"
     },
     {
@@ -3991,23 +3997,23 @@
       "text": "sleepy"
     },
     {
-      "start": 300.64,
-      "end": 302.06,
+      "start": null,
+      "end": null,
       "text": "winds"
     },
     {
-      "start": 300.64,
-      "end": 302.06,
+      "start": null,
+      "end": null,
       "text": "a"
     },
     {
-      "start": 300.64,
-      "end": 302.06,
+      "start": null,
+      "end": null,
       "text": "mazy"
     },
     {
-      "start": 300.64,
-      "end": 302.06,
+      "start": null,
+      "end": null,
       "text": "way"
     },
     {
@@ -4029,8 +4035,8 @@
       "text": "a"
     },
     {
-      "start": 302.69,
-      "end": 303.53,
+      "start": null,
+      "end": null,
       "text": "spurs"
     },
     {
@@ -4046,23 +4052,23 @@
       "text": "reaching"
     },
     {
-      "start": 307.06,
-      "end": 308.02,
+      "start": null,
+      "end": null,
       "text": "bathed"
     },
     {
-      "start": 307.06,
-      "end": 308.02,
+      "start": null,
+      "end": null,
       "text": "in"
     },
     {
-      "start": 307.06,
-      "end": 308.02,
+      "start": null,
+      "end": null,
       "text": "their"
     },
     {
-      "start": 307.06,
-      "end": 308.02,
+      "start": null,
+      "end": null,
       "text": "hill"
     },
     {
@@ -4072,23 +4078,23 @@
       "text": "mountains"
     },
     {
-      "start": 307.49,
-      "end": 309.94,
+      "start": null,
+      "end": null,
       "text": "blue"
     },
     {
-      "start": 307.49,
-      "end": 309.94,
+      "start": null,
+      "end": null,
       "text": "but"
     },
     {
-      "start": 307.49,
-      "end": 309.94,
+      "start": null,
+      "end": null,
       "text": "though"
     },
     {
-      "start": 307.49,
-      "end": 309.94,
+      "start": null,
+      "end": null,
       "text": "the"
     },
     {
@@ -4116,7 +4122,7 @@
       "text": "though"
     },
     {
-      "start": 308.03,
+      "start": 309.94,
       "end": 311.64,
       "text": "and"
     },
@@ -4163,42 +4169,42 @@
       "text": "this"
     },
     {
-      "start": 315.21,
+      "start": 315.68,
       "end": 316.84,
       "text": "sighs"
     },
     {
-      "start": 315.21,
+      "start": 315.68,
       "end": 316.84,
       "text": "like"
     },
     {
-      "start": 315.21,
+      "start": 315.68,
       "end": 316.84,
       "text": "leaves"
     },
     {
-      "start": 315.21,
+      "start": 315.68,
       "end": 316.84,
       "text": "upon"
     },
     {
-      "start": 315.21,
+      "start": 315.68,
       "end": 316.84,
       "text": "this"
     },
     {
-      "start": 315.21,
+      "start": 315.68,
       "end": 316.84,
       "text": "shepherd’s"
     },
     {
-      "start": 315.21,
+      "start": 315.68,
       "end": 316.84,
       "text": "head"
     },
     {
-      "start": 315.21,
+      "start": 315.68,
       "end": 316.84,
       "text": "yet"
     },
@@ -4233,17 +4239,17 @@
       "text": "yet"
     },
     {
-      "start": 317.84,
+      "start": 318.58,
       "end": 324.13,
       "text": "shepherd’s"
     },
     {
-      "start": 317.84,
+      "start": 318.58,
       "end": 324.13,
       "text": "eye"
     },
     {
-      "start": 317.84,
+      "start": 318.58,
       "end": 324.13,
       "text": "were"
     },
@@ -4332,38 +4338,38 @@
       "text": "visit"
     },
     {
-      "start": 327.02,
-      "end": 327.7,
+      "start": null,
+      "end": null,
       "text": "for"
     },
     {
-      "start": 327.02,
-      "end": 327.7,
+      "start": null,
+      "end": null,
       "text": "scores"
     },
     {
-      "start": 327.02,
-      "end": 327.7,
+      "start": null,
+      "end": null,
       "text": "on"
     },
     {
-      "start": 327.02,
-      "end": 327.7,
+      "start": null,
+      "end": null,
       "text": "scores"
     },
     {
-      "start": 327.02,
-      "end": 327.7,
+      "start": null,
+      "end": null,
       "text": "of"
     },
     {
-      "start": 327.02,
-      "end": 327.7,
+      "start": null,
+      "end": null,
       "text": "miles"
     },
     {
-      "start": 327.02,
-      "end": 327.7,
+      "start": null,
+      "end": null,
       "text": "you"
     },
     {
@@ -4373,8 +4379,8 @@
       "text": "on"
     },
     {
-      "start": 327.36,
-      "end": 331.04,
+      "start": null,
+      "end": null,
       "text": "knee"
     },
     {
@@ -4438,17 +4444,17 @@
       "text": "what"
     },
     {
-      "start": 333.11,
+      "start": 333.39,
       "end": 339.46,
       "text": "water"
     },
     {
-      "start": 333.11,
+      "start": 333.39,
       "end": 339.46,
       "text": "there"
     },
     {
-      "start": 333.11,
+      "start": 333.39,
       "end": 339.46,
       "text": "is"
     },
@@ -4549,7 +4555,7 @@
       "text": "cataract"
     },
     {
-      "start": 339.66,
+      "start": 340.64,
       "end": 343.39,
       "text": "your"
     },
@@ -4620,7 +4626,7 @@
       "text": "Why"
     },
     {
-      "start": 344.41,
+      "start": 345.31,
       "end": 351.34,
       "text": "tennessee"
     },
@@ -4733,8 +4739,8 @@
       "text": "a"
     },
     {
-      "start": 352.4,
-      "end": 352.86,
+      "start": null,
+      "end": null,
       "text": "or"
     },
     {
@@ -4744,8 +4750,8 @@
       "text": "which"
     },
     {
-      "start": 352.75,
-      "end": 358.82,
+      "start": null,
+      "end": null,
       "text": "his"
     },
     {
@@ -4845,7 +4851,7 @@
       "text": "almost"
     },
     {
-      "start": 358.98,
+      "start": 359.92,
       "end": 363.39,
       "text": "a"
     },
@@ -4934,7 +4940,7 @@
       "text": "or"
     },
     {
-      "start": 364.68,
+      "start": 365.53,
       "end": 378.57,
       "text": "sea"
     },
@@ -5173,7 +5179,7 @@
       "text": "the"
     },
     {
-      "start": 379.46,
+      "start": 379.87,
       "end": 385.69,
       "text": "holy"
     },
@@ -5358,7 +5364,7 @@
       "text": "the"
     },
     {
-      "start": 391.9,
+      "start": 392.49,
       "end": 395.28,
       "text": "narcissus"
     },
@@ -5417,22 +5423,22 @@
       "text": "could"
     },
     {
-      "start": 396.08,
+      "start": 396.68,
       "end": 403.97,
       "text": "image"
     },
     {
-      "start": 396.08,
+      "start": 396.68,
       "end": 403.97,
       "text": "he"
     },
     {
-      "start": 396.08,
+      "start": 396.68,
       "end": 403.97,
       "text": "saw"
     },
     {
-      "start": 396.08,
+      "start": 396.68,
       "end": 403.97,
       "text": "in"
     },
@@ -5527,7 +5533,7 @@
       "text": "that"
     },
     {
-      "start": 397.19,
+      "start": 403.97,
       "end": 411.18,
       "text": "in"
     },
@@ -5658,27 +5664,27 @@
       "text": "this"
     },
     {
-      "start": 414.55,
+      "start": 414.94,
       "end": 415.98,
       "text": "allnow"
     },
     {
-      "start": 414.55,
+      "start": 414.94,
       "end": 415.98,
       "text": "when"
     },
     {
-      "start": 414.55,
+      "start": 414.94,
       "end": 415.98,
       "text": "i"
     },
     {
-      "start": 414.55,
+      "start": 414.94,
       "end": 415.98,
       "text": "say"
     },
     {
-      "start": 414.55,
+      "start": 414.94,
       "end": 415.98,
       "text": "that"
     },
@@ -5731,7 +5737,7 @@
       "text": "am"
     },
     {
-      "start": 416.38,
+      "start": 416.89,
       "end": 422.57,
       "text": "sea"
     },
@@ -5850,32 +5856,32 @@
       "text": "be"
     },
     {
-      "start": 423.45,
+      "start": 424.25,
       "end": 430.64,
       "text": "do"
     },
     {
-      "start": 423.45,
+      "start": 424.25,
       "end": 430.64,
       "text": "not"
     },
     {
-      "start": 423.45,
+      "start": 424.25,
       "end": 430.64,
       "text": "mean"
     },
     {
-      "start": 423.45,
+      "start": 424.25,
       "end": 430.64,
       "text": "to"
     },
     {
-      "start": 423.45,
+      "start": 424.25,
       "end": 430.64,
       "text": "have"
     },
     {
-      "start": 423.45,
+      "start": 424.25,
       "end": 430.64,
       "text": "it"
     },
@@ -6018,17 +6024,17 @@
       "text": "you"
     },
     {
-      "start": 431.19,
+      "start": 431.46,
       "end": 432.95,
       "text": "a"
     },
     {
-      "start": 431.19,
+      "start": 431.46,
       "end": 432.95,
       "text": "purse"
     },
     {
-      "start": 431.19,
+      "start": 431.46,
       "end": 432.95,
       "text": "is"
     },
@@ -6075,37 +6081,37 @@
       "text": "but"
     },
     {
-      "start": 436.62,
+      "start": 437.66,
       "end": 439.55,
       "text": "in"
     },
     {
-      "start": 436.62,
+      "start": 437.66,
       "end": 439.55,
       "text": "it"
     },
     {
-      "start": 436.62,
+      "start": 437.66,
       "end": 439.55,
       "text": "besides"
     },
     {
-      "start": 436.62,
+      "start": 437.66,
       "end": 439.55,
       "text": "passengers"
     },
     {
-      "start": 436.62,
+      "start": 437.66,
       "end": 439.55,
       "text": "get"
     },
     {
-      "start": 436.62,
+      "start": 437.66,
       "end": 439.55,
       "text": "sea"
     },
     {
-      "start": 436.62,
+      "start": 437.66,
       "end": 439.55,
       "text": "sick"
     },
@@ -6122,17 +6128,17 @@
       "text": "Besides,"
     },
     {
-      "start": 438.48,
+      "start": 439.55,
       "end": 440,
       "text": "don’t"
     },
     {
-      "start": 438.48,
+      "start": 439.55,
       "end": 440,
       "text": "sleep"
     },
     {
-      "start": 438.48,
+      "start": 439.55,
       "end": 440,
       "text": "of"
     },
@@ -6143,8 +6149,8 @@
       "text": "sick"
     },
     {
-      "start": 439.55,
-      "end": 444.34,
+      "start": null,
+      "end": null,
       "text": "do"
     },
     {
@@ -6238,92 +6244,92 @@
       "text": "no,"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "nor"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "though"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "i"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "am"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "something"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "of"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "a"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "salt"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "do"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "i"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "ever"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "go"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "to"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "sea"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "as"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "a"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "commodore"
     },
     {
-      "start": 449.61,
+      "start": 450.35,
       "end": 454.4,
       "text": "or"
     },
@@ -6406,7 +6412,7 @@
       "text": "abandon"
     },
     {
-      "start": 455.31,
+      "start": 455.76,
       "end": 459.35,
       "text": "offices"
     },
@@ -6477,7 +6483,7 @@
       "text": "them."
     },
     {
-      "start": 460.25,
+      "start": 461.59,
       "end": 464.3,
       "text": "honorable"
     },
@@ -6530,7 +6536,7 @@
       "text": "toils,"
     },
     {
-      "start": 465.7,
+      "start": 466.1,
       "end": 470.62,
       "text": "whatsoever"
     },
@@ -6649,12 +6655,12 @@
       "text": "of"
     },
     {
-      "start": 472.14,
+      "start": 473.12,
       "end": 480.8,
       "text": "barques"
     },
     {
-      "start": 472.14,
+      "start": 473.12,
       "end": 480.8,
       "text": "brigs"
     },
@@ -6791,37 +6797,37 @@
       "text": "considerable"
     },
     {
-      "start": 483.4,
+      "start": 484.18,
       "end": 485.92,
       "text": "a"
     },
     {
-      "start": 483.4,
+      "start": 484.18,
       "end": 485.92,
       "text": "sort"
     },
     {
-      "start": 483.4,
+      "start": 484.18,
       "end": 485.92,
       "text": "of"
     },
     {
-      "start": 483.4,
+      "start": 484.18,
       "end": 485.92,
       "text": "officer"
     },
     {
-      "start": 483.4,
+      "start": 484.18,
       "end": 485.92,
       "text": "on"
     },
     {
-      "start": 483.4,
+      "start": 484.18,
       "end": 485.92,
       "text": "ship"
     },
     {
-      "start": 483.4,
+      "start": 484.18,
       "end": 485.92,
       "text": "board"
     },
@@ -6862,22 +6868,22 @@
       "text": "board"
     },
     {
-      "start": 488.28,
+      "start": 489.49,
       "end": 491.65,
       "text": "fowls"
     },
     {
-      "start": 488.28,
+      "start": 489.49,
       "end": 491.65,
       "text": "though"
     },
     {
-      "start": 488.28,
+      "start": 489.49,
       "end": 491.65,
       "text": "once"
     },
     {
-      "start": 488.28,
+      "start": 489.49,
       "end": 491.65,
       "text": "broiled"
     },
@@ -6894,12 +6900,12 @@
       "text": "broiling"
     },
     {
-      "start": 490.78,
+      "start": 491.65,
       "end": 495.89,
       "text": "and"
     },
     {
-      "start": 490.78,
+      "start": 491.65,
       "end": 495.89,
       "text": "judgmatically"
     },
@@ -6994,27 +7000,27 @@
       "text": "will"
     },
     {
-      "start": 497.98,
+      "start": 498.31,
       "end": 501.37,
       "text": "reverentially"
     },
     {
-      "start": 497.98,
+      "start": 498.31,
       "end": 501.37,
       "text": "of"
     },
     {
-      "start": 497.98,
+      "start": 498.31,
       "end": 501.37,
       "text": "a"
     },
     {
-      "start": 497.98,
+      "start": 498.31,
       "end": 501.37,
       "text": "broiled"
     },
     {
-      "start": 497.98,
+      "start": 498.31,
       "end": 501.37,
       "text": "fowl"
     },
@@ -7073,12 +7079,12 @@
       "text": "will."
     },
     {
-      "start": 502.21,
+      "start": 502.66,
       "end": 511.08,
       "text": "dotings"
     },
     {
-      "start": 502.21,
+      "start": 502.66,
       "end": 511.08,
       "text": "of"
     },
@@ -7227,32 +7233,32 @@
       "text": "creatures"
     },
     {
-      "start": 514.93,
+      "start": 515.47,
       "end": 519.13,
       "text": "pyramidsno"
     },
     {
-      "start": 514.93,
+      "start": 515.47,
       "end": 519.13,
       "text": "when"
     },
     {
-      "start": 514.93,
+      "start": 515.47,
       "end": 519.13,
       "text": "i"
     },
     {
-      "start": 514.93,
+      "start": 515.47,
       "end": 519.13,
       "text": "go"
     },
     {
-      "start": 514.93,
+      "start": 515.47,
       "end": 519.13,
       "text": "to"
     },
     {
-      "start": 514.93,
+      "start": 515.47,
       "end": 519.13,
       "text": "sea"
     },
@@ -7341,7 +7347,7 @@
       "text": "right"
     },
     {
-      "start": 519.93,
+      "start": 520.71,
       "end": 521.26,
       "text": "forecastle"
     },
@@ -7376,47 +7382,47 @@
       "text": "into"
     },
     {
-      "start": 525.43,
+      "start": 525.93,
       "end": 526.77,
       "text": "mast"
     },
     {
-      "start": 525.43,
+      "start": 525.93,
       "end": 526.77,
       "text": "head"
     },
     {
-      "start": 525.43,
+      "start": 525.93,
       "end": 526.77,
       "text": "true"
     },
     {
-      "start": 525.43,
+      "start": 525.93,
       "end": 526.77,
       "text": "they"
     },
     {
-      "start": 525.43,
+      "start": 525.93,
       "end": 526.77,
       "text": "rather"
     },
     {
-      "start": 525.43,
+      "start": 525.93,
       "end": 526.77,
       "text": "order"
     },
     {
-      "start": 525.43,
+      "start": 525.93,
       "end": 526.77,
       "text": "me"
     },
     {
-      "start": 525.43,
+      "start": 525.93,
       "end": 526.77,
       "text": "about"
     },
     {
-      "start": 525.43,
+      "start": 525.93,
       "end": 526.77,
       "text": "some"
     },
@@ -7451,17 +7457,17 @@
       "text": "me"
     },
     {
-      "start": 527.78,
+      "start": 528.23,
       "end": 529.07,
       "text": "spar"
     },
     {
-      "start": 527.78,
+      "start": 528.23,
       "end": 529.07,
       "text": "to"
     },
     {
-      "start": 527.78,
+      "start": 528.23,
       "end": 529.07,
       "text": "spar"
     },
@@ -7484,37 +7490,37 @@
       "text": "jump"
     },
     {
-      "start": 531.44,
+      "start": 531.89,
       "end": 534.88,
       "text": "in"
     },
     {
-      "start": 531.44,
+      "start": 531.89,
       "end": 534.88,
       "text": "a"
     },
     {
-      "start": 531.44,
+      "start": 531.89,
       "end": 534.88,
       "text": "may"
     },
     {
-      "start": 531.44,
+      "start": 531.89,
       "end": 534.88,
       "text": "meadow"
     },
     {
-      "start": 531.44,
+      "start": 531.89,
       "end": 534.88,
       "text": "and"
     },
     {
-      "start": 531.44,
+      "start": 531.89,
       "end": 534.88,
       "text": "at"
     },
     {
-      "start": 531.44,
+      "start": 531.89,
       "end": 534.88,
       "text": "first"
     },
@@ -7573,9 +7579,10 @@
       "text": "sort"
     },
     {
-      "start": 535.13,
-      "end": 537.33,
-      "text": "one’s"
+      "id": 1340,
+      "start": 535.58,
+      "end": 536.04,
+      "text": "of"
     },
     {
       "id": 1341,
@@ -7590,7 +7597,7 @@
       "text": "is"
     },
     {
-      "start": 536.38,
+      "start": 537.33,
       "end": 541.23,
       "text": "honor"
     },
@@ -7679,52 +7686,52 @@
       "text": "old"
     },
     {
-      "start": 546.05,
+      "start": 546.9,
       "end": 548.54,
       "text": "rensselaers"
     },
     {
-      "start": 546.05,
+      "start": 546.9,
       "end": 548.54,
       "text": "or"
     },
     {
-      "start": 546.05,
+      "start": 546.9,
       "end": 548.54,
       "text": "randolphs"
     },
     {
-      "start": 546.05,
+      "start": 546.9,
       "end": 548.54,
       "text": "or"
     },
     {
-      "start": 546.05,
+      "start": 546.9,
       "end": 548.54,
       "text": "hardicanutes"
     },
     {
-      "start": 546.05,
+      "start": 546.9,
       "end": 548.54,
       "text": "and"
     },
     {
-      "start": 546.05,
+      "start": 546.9,
       "end": 548.54,
       "text": "more"
     },
     {
-      "start": 546.05,
+      "start": 546.9,
       "end": 548.54,
       "text": "than"
     },
     {
-      "start": 546.05,
+      "start": 546.9,
       "end": 548.54,
       "text": "all"
     },
     {
-      "start": 546.05,
+      "start": 546.9,
       "end": 548.54,
       "text": "if"
     },
@@ -7783,7 +7790,7 @@
       "text": "previous"
     },
     {
-      "start": 549.23,
+      "start": 549.54,
       "end": 553.93,
       "text": "pot"
     },
@@ -7866,27 +7873,27 @@
       "text": "as"
     },
     {
-      "start": 555.89,
+      "start": 556.77,
       "end": 558.7,
       "text": "stand"
     },
     {
-      "start": 555.89,
+      "start": 556.77,
       "end": 558.7,
       "text": "in"
     },
     {
-      "start": 555.89,
+      "start": 556.77,
       "end": 558.7,
       "text": "awe"
     },
     {
-      "start": 555.89,
+      "start": 556.77,
       "end": 558.7,
       "text": "of"
     },
     {
-      "start": 555.89,
+      "start": 556.77,
       "end": 558.7,
       "text": "you"
     },
@@ -7951,62 +7958,62 @@
       "text": "is"
     },
     {
-      "start": 564.08,
+      "start": 564.6,
       "end": 569.51,
       "text": "a"
     },
     {
-      "start": 564.08,
+      "start": 564.6,
       "end": 569.51,
       "text": "schoolmaster"
     },
     {
-      "start": 564.08,
+      "start": 564.6,
       "end": 569.51,
       "text": "to"
     },
     {
-      "start": 564.08,
+      "start": 564.6,
       "end": 569.51,
       "text": "a"
     },
     {
-      "start": 564.08,
+      "start": 564.6,
       "end": 569.51,
       "text": "sailor"
     },
     {
-      "start": 564.08,
+      "start": 564.6,
       "end": 569.51,
       "text": "and"
     },
     {
-      "start": 564.08,
+      "start": 564.6,
       "end": 569.51,
       "text": "requires"
     },
     {
-      "start": 564.08,
+      "start": 564.6,
       "end": 569.51,
       "text": "a"
     },
     {
-      "start": 564.08,
+      "start": 564.6,
       "end": 569.51,
       "text": "strong"
     },
     {
-      "start": 564.08,
+      "start": 564.6,
       "end": 569.51,
       "text": "decoction"
     },
     {
-      "start": 564.08,
+      "start": 564.6,
       "end": 569.51,
       "text": "of"
     },
     {
-      "start": 564.08,
+      "start": 564.6,
       "end": 569.51,
       "text": "seneca"
     },
@@ -8113,22 +8120,22 @@
       "text": "bear"
     },
     {
-      "start": 571.57,
+      "start": 572.09,
       "end": 586.13,
       "text": "timewhat"
     },
     {
-      "start": 571.57,
+      "start": 572.09,
       "end": 586.13,
       "text": "of"
     },
     {
-      "start": 571.57,
+      "start": 572.09,
       "end": 586.13,
       "text": "it"
     },
     {
-      "start": 571.57,
+      "start": 572.09,
       "end": 586.13,
       "text": "if"
     },
@@ -8385,7 +8392,7 @@
       "text": "Testament?"
     },
     {
-      "start": 572.09,
+      "start": 586.13,
       "end": 589.04,
       "text": "the"
     },
@@ -8450,12 +8457,12 @@
       "text": "of"
     },
     {
-      "start": 589.79,
+      "start": 590.11,
       "end": 591.98,
       "text": "old"
     },
     {
-      "start": 589.79,
+      "start": 590.11,
       "end": 591.98,
       "text": "hunks"
     },
@@ -8490,7 +8497,7 @@
       "text": "obey"
     },
     {
-      "start": 592.22,
+      "start": 592.94,
       "end": 597.1,
       "text": "ain’t"
     },
@@ -8567,7 +8574,7 @@
       "text": "me"
     },
     {
-      "start": 597.27,
+      "start": 597.66,
       "end": 606.84,
       "text": "may"
     },
@@ -8794,12 +8801,12 @@
       "text": "or"
     },
     {
-      "start": 610.72,
+      "start": 611.75,
       "end": 615.93,
       "text": "in"
     },
     {
-      "start": 610.72,
+      "start": 611.75,
       "end": 615.93,
       "text": "a"
     },
@@ -8876,12 +8883,12 @@
       "text": "point"
     },
     {
-      "start": 616.63,
+      "start": 617.56,
       "end": 618.3,
       "text": "thump"
     },
     {
-      "start": 616.63,
+      "start": 617.56,
       "end": 618.3,
       "text": "is"
     },
@@ -8934,7 +8941,7 @@
       "text": "is"
     },
     {
-      "start": 619.6,
+      "start": 621.21,
       "end": 621.4,
       "text": "other’s"
     },
@@ -8963,47 +8970,47 @@
       "text": "hands"
     },
     {
-      "start": 625.79,
+      "start": 626.47,
       "end": 643,
       "text": "contentagain"
     },
     {
-      "start": 625.79,
+      "start": 626.47,
       "end": 643,
       "text": "i"
     },
     {
-      "start": 625.79,
+      "start": 626.47,
       "end": 643,
       "text": "always"
     },
     {
-      "start": 625.79,
+      "start": 626.47,
       "end": 643,
       "text": "go"
     },
     {
-      "start": 625.79,
+      "start": 626.47,
       "end": 643,
       "text": "to"
     },
     {
-      "start": 625.79,
+      "start": 626.47,
       "end": 643,
       "text": "sea"
     },
     {
-      "start": 625.79,
+      "start": 626.47,
       "end": 643,
       "text": "as"
     },
     {
-      "start": 625.79,
+      "start": 626.47,
       "end": 643,
       "text": "a"
     },
     {
-      "start": 625.79,
+      "start": 626.47,
       "end": 643,
       "text": "sailor"
     },
@@ -9284,22 +9291,22 @@
       "text": "difference"
     },
     {
-      "start": 643.96,
+      "start": 644.75,
       "end": 653.22,
       "text": "act"
     },
     {
-      "start": 643.96,
+      "start": 644.75,
       "end": 653.22,
       "text": "of"
     },
     {
-      "start": 643.96,
+      "start": 644.75,
       "end": 653.22,
       "text": "paying"
     },
     {
-      "start": 643.96,
+      "start": 644.75,
       "end": 653.22,
       "text": "is"
     },
@@ -9424,7 +9431,7 @@
       "text": "entailed"
     },
     {
-      "start": 653.81,
+      "start": 655.16,
       "end": 664.98,
       "text": "it"
     },
@@ -9633,17 +9640,17 @@
       "text": "all"
     },
     {
-      "start": 666.16,
+      "start": 667.69,
       "end": 670.11,
       "text": "monied"
     },
     {
-      "start": 666.16,
+      "start": 667.69,
       "end": 670.11,
       "text": "man"
     },
     {
-      "start": 666.16,
+      "start": 667.69,
       "end": 670.11,
       "text": "enter"
     },
@@ -9696,67 +9703,67 @@
       "text": "man"
     },
     {
-      "start": 675.92,
+      "start": 677.15,
       "end": 677.68,
       "text": "perditionfinally"
     },
     {
-      "start": 675.92,
+      "start": 677.15,
       "end": 677.68,
       "text": "i"
     },
     {
-      "start": 675.92,
+      "start": 677.15,
       "end": 677.68,
       "text": "always"
     },
     {
-      "start": 675.92,
+      "start": 677.15,
       "end": 677.68,
       "text": "go"
     },
     {
-      "start": 675.92,
+      "start": 677.15,
       "end": 677.68,
       "text": "to"
     },
     {
-      "start": 675.92,
+      "start": 677.15,
       "end": 677.68,
       "text": "sea"
     },
     {
-      "start": 675.92,
+      "start": 677.15,
       "end": 677.68,
       "text": "as"
     },
     {
-      "start": 675.92,
+      "start": 677.15,
       "end": 677.68,
       "text": "a"
     },
     {
-      "start": 675.92,
+      "start": 677.15,
       "end": 677.68,
       "text": "sailor"
     },
     {
-      "start": 675.92,
+      "start": 677.15,
       "end": 677.68,
       "text": "because"
     },
     {
-      "start": 675.92,
+      "start": 677.15,
       "end": 677.68,
       "text": "of"
     },
     {
-      "start": 675.92,
+      "start": 677.15,
       "end": 677.68,
       "text": "the"
     },
     {
-      "start": 675.92,
+      "start": 677.15,
       "end": 677.68,
       "text": "wholesome"
     },
@@ -9797,52 +9804,52 @@
       "text": "sailor,"
     },
     {
-      "start": 681.28,
+      "start": 682.01,
       "end": 682.84,
       "text": "fore"
     },
     {
-      "start": 681.28,
+      "start": 682.01,
       "end": 682.84,
       "text": "castle"
     },
     {
-      "start": 681.28,
+      "start": 682.01,
       "end": 682.84,
       "text": "deck"
     },
     {
-      "start": 681.28,
+      "start": 682.01,
       "end": 682.84,
       "text": "for"
     },
     {
-      "start": 681.28,
+      "start": 682.01,
       "end": 682.84,
       "text": "as"
     },
     {
-      "start": 681.28,
+      "start": 682.01,
       "end": 682.84,
       "text": "in"
     },
     {
-      "start": 681.28,
+      "start": 682.01,
       "end": 682.84,
       "text": "this"
     },
     {
-      "start": 681.28,
+      "start": 682.01,
       "end": 682.84,
       "text": "world"
     },
     {
-      "start": 681.28,
+      "start": 682.01,
       "end": 682.84,
       "text": "head"
     },
     {
-      "start": 681.28,
+      "start": 682.01,
       "end": 682.84,
       "text": "winds"
     },
@@ -9877,17 +9884,17 @@
       "text": "as"
     },
     {
-      "start": 684.09,
+      "start": 684.76,
       "end": 687.03,
       "text": "winds"
     },
     {
-      "start": 684.09,
+      "start": 684.76,
       "end": 687.03,
       "text": "from"
     },
     {
-      "start": 684.09,
+      "start": 684.76,
       "end": 687.03,
       "text": "astern"
     },
@@ -9940,7 +9947,7 @@
       "text": "winds"
     },
     {
-      "start": 688.2,
+      "start": 688.8,
       "end": 694.28,
       "text": "maxim"
     },
@@ -10077,112 +10084,112 @@
       "text": "gets"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "forecastle"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "he"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "thinks"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "he"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "breathes"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "it"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "first"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "but"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "not"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "so"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "in"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "much"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "the"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "same"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "way"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "do"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "the"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "commonalty"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "lead"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "their"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "leaders"
     },
     {
-      "start": 702.07,
+      "start": 703.29,
       "end": 705.3,
       "text": "in"
     },
@@ -10253,12 +10260,12 @@
       "text": "many"
     },
     {
-      "start": 706.51,
+      "start": 707.68,
       "end": 720.44,
       "text": "suspect"
     },
     {
-      "start": 706.51,
+      "start": 707.68,
       "end": 720.44,
       "text": "it"
     },
@@ -10521,12 +10528,12 @@
       "text": "police"
     },
     {
-      "start": 720.82,
+      "start": 722.21,
       "end": 727.77,
       "text": "me"
     },
     {
-      "start": 720.82,
+      "start": 722.21,
       "end": 727.77,
       "text": "and"
     },
@@ -10621,12 +10628,12 @@
       "text": "influences"
     },
     {
-      "start": 728.17,
+      "start": 729.98,
       "end": 738.36,
       "text": "any"
     },
     {
-      "start": 728.17,
+      "start": 729.98,
       "end": 738.36,
       "text": "one"
     },
@@ -10793,7 +10800,7 @@
       "text": "Providence"
     },
     {
-      "start": 729.98,
+      "start": 738.36,
       "end": 739.47,
       "text": "in"
     },
@@ -10834,7 +10841,7 @@
       "text": "time"
     },
     {
-      "start": 739.61,
+      "start": 741.24,
       "end": 745.33,
       "text": "and"
     },
@@ -10923,14 +10930,16 @@
       "text": "extensive"
     },
     {
-      "start": 745.75,
-      "end": 749.57,
-      "text": "must"
+      "id": 1913,
+      "start": 746.74,
+      "end": 747.26,
+      "text": "performances."
     },
     {
-      "start": 745.75,
-      "end": 749.57,
-      "text": "have"
+      "id": 1914,
+      "start": 747.77,
+      "end": 748.28,
+      "text": "I"
     },
     {
       "id": 1915,
@@ -10951,7 +10960,7 @@
       "text": "that"
     },
     {
-      "start": 748.28,
+      "start": 749.57,
       "end": 751.72,
       "text": "this“grand"
     },
@@ -11010,33 +11019,33 @@
       "text": "like"
     },
     {
-      "start": 761.2,
-      "end": 762.45,
+      "start": null,
+      "end": null,
       "text": "“whaling"
     },
     {
-      "start": 761.2,
-      "end": 762.45,
+      "start": null,
+      "end": null,
       "text": "voyage"
     },
     {
-      "start": 761.2,
-      "end": 762.45,
+      "start": null,
+      "end": null,
       "text": "by"
     },
     {
-      "start": 761.2,
-      "end": 762.45,
+      "start": null,
+      "end": null,
       "text": "one"
     },
     {
-      "start": 761.2,
-      "end": 762.45,
+      "start": null,
+      "end": null,
       "text": "ishmael"
     },
     {
-      "start": 761.2,
-      "end": 762.45,
+      "start": null,
+      "end": null,
       "text": "“bloody"
     },
     {
@@ -11052,52 +11061,52 @@
       "text": "of"
     },
     {
-      "start": 761.75,
+      "start": 762.45,
       "end": 768.12,
       "text": "affghanistan”though"
     },
     {
-      "start": 761.75,
+      "start": 762.45,
       "end": 768.12,
       "text": "i"
     },
     {
-      "start": 761.75,
+      "start": 762.45,
       "end": 768.12,
       "text": "cannot"
     },
     {
-      "start": 761.75,
+      "start": 762.45,
       "end": 768.12,
       "text": "tell"
     },
     {
-      "start": 761.75,
+      "start": 762.45,
       "end": 768.12,
       "text": "why"
     },
     {
-      "start": 761.75,
+      "start": 762.45,
       "end": 768.12,
       "text": "it"
     },
     {
-      "start": 761.75,
+      "start": 762.45,
       "end": 768.12,
       "text": "was"
     },
     {
-      "start": 761.75,
+      "start": 762.45,
       "end": 768.12,
       "text": "exactly"
     },
     {
-      "start": 761.75,
+      "start": 762.45,
       "end": 768.12,
       "text": "that"
     },
     {
-      "start": 761.75,
+      "start": 762.45,
       "end": 768.12,
       "text": "those"
     },
@@ -11246,7 +11255,7 @@
       "text": "of"
     },
     {
-      "start": 771.35,
+      "start": 771.89,
       "end": 772.32,
       "text": "high"
     },
@@ -11257,8 +11266,8 @@
       "text": "whaling"
     },
     {
-      "start": 771.89,
-      "end": 775.54,
+      "start": null,
+      "end": null,
       "text": "and"
     },
     {
@@ -11322,12 +11331,12 @@
       "text": "high"
     },
     {
-      "start": 776.89,
+      "start": 777.75,
       "end": 783.41,
       "text": "in"
     },
     {
-      "start": 776.89,
+      "start": 777.75,
       "end": 783.41,
       "text": "farces"
     },
@@ -11410,7 +11419,7 @@
       "text": "though"
     },
     {
-      "start": 777.75,
+      "start": 783.41,
       "end": 797.22,
       "text": "all"
     },
@@ -11667,7 +11676,7 @@
       "text": "the"
     },
     {
-      "start": 797.41,
+      "start": 798.63,
       "end": 800.27,
       "text": "a"
     },
@@ -11708,8 +11717,8 @@
       "text": "into"
     },
     {
-      "start": 803.8,
-      "end": 805.01,
+      "start": null,
+      "end": null,
       "text": "freewill"
     },
     {
@@ -11725,7 +11734,7 @@
       "text": "that"
     },
     {
-      "start": 804.1,
+      "start": 805.01,
       "end": 809.16,
       "text": "judgmentchief"
     },
@@ -11814,7 +11823,7 @@
       "text": "among"
     },
     {
-      "start": 810.05,
+      "start": 811.64,
       "end": 814.71,
       "text": "portentous"
     },
@@ -11837,12 +11846,12 @@
       "text": "the"
     },
     {
-      "start": 812.77,
+      "start": 814.71,
       "end": 815.43,
       "text": "roused"
     },
     {
-      "start": 812.77,
+      "start": 814.71,
       "end": 815.43,
       "text": "all"
     },
@@ -11883,12 +11892,12 @@
       "text": "Such"
     },
     {
-      "start": 816.35,
+      "start": 817.08,
       "end": 818.79,
       "text": "distant"
     },
     {
-      "start": 816.35,
+      "start": 817.08,
       "end": 818.79,
       "text": "seas"
     },
@@ -11935,7 +11944,7 @@
       "text": "curiosity."
     },
     {
-      "start": 819.91,
+      "start": 821.46,
       "end": 823.04,
       "text": "undeliverable"
     },
@@ -11958,7 +11967,7 @@
       "text": "and"
     },
     {
-      "start": 821.46,
+      "start": 823.04,
       "end": 829.24,
       "text": "the"
     },
@@ -12053,7 +12062,7 @@
       "text": "these,"
     },
     {
-      "start": 823.04,
+      "start": 829.24,
       "end": 843.68,
       "text": "to"
     },
@@ -12292,7 +12301,7 @@
       "text": "everlasting"
     },
     {
-      "start": 844.22,
+      "start": 846.33,
       "end": 851.23,
       "text": "barbarous"
     },
@@ -12411,7 +12420,7 @@
       "text": "good,"
     },
     {
-      "start": 851.49,
+      "start": 852.11,
       "end": 857.83,
       "text": "it"
     },
@@ -12554,7 +12563,7 @@
       "text": "to"
     },
     {
-      "start": 859.6,
+      "start": 860.38,
       "end": 865.15,
       "text": "inby"
     },
@@ -12655,13 +12664,13 @@
       "text": "of"
     },
     {
-      "start": 867.5,
-      "end": 868.84,
+      "start": null,
+      "end": null,
       "text": "wonder"
     },
     {
-      "start": 867.5,
-      "end": 868.84,
+      "start": null,
+      "end": null,
       "text": "world"
     },
     {
@@ -12677,12 +12686,12 @@
       "text": "the"
     },
     {
-      "start": 867.62,
+      "start": 868.84,
       "end": 870.44,
       "text": "and"
     },
     {
-      "start": 867.62,
+      "start": 868.84,
       "end": 870.44,
       "text": "in"
     },
@@ -12741,22 +12750,22 @@
       "text": "wonder"
     },
     {
-      "start": 871.61,
+      "start": 872.5,
       "end": 883.02,
       "text": "two"
     },
     {
-      "start": 871.61,
+      "start": 872.5,
       "end": 883.02,
       "text": "and"
     },
     {
-      "start": 871.61,
+      "start": 872.5,
       "end": 883.02,
       "text": "two"
     },
     {
-      "start": 871.61,
+      "start": 872.5,
       "end": 883.02,
       "text": "there"
     },

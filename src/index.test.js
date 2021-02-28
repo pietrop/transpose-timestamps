@@ -1,9 +1,7 @@
-const fs = require('fs');
 const transposeWords = require('./index');
 const countWordsInText = require('./count-words-in-text');
 const removeDash = require('./remove-dash');
 const mobyTranscriptFirstParagraph = require('../sample/data/moby-dick-chapter-1/first-paragraph.json');
-// const mobyTextFirstParagraph = fs.readFileSync('../sample/data/moby-dick-chapter-1/first-paragraph.txt ').toString();
 const mobyTextFirstParagraph = require('../sample/data/moby-dick-chapter-1/text.js');
 test('transposeWords, expect word count to be same as base text', () => {
   const alignedWords = transposeWords({ baseText: mobyTextFirstParagraph, transcript: mobyTranscriptFirstParagraph });

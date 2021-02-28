@@ -151,12 +151,12 @@
       "text": "me"
     },
     {
-      "start": 29.11,
+      "start": 39.37,
       "end": 70.13,
       "text": "on"
     },
     {
-      "start": 29.11,
+      "start": 39.37,
       "end": 70.13,
       "text": "shore"
     },
@@ -635,7 +635,7 @@
       "text": "hand"
     },
     {
-      "start": 40.53,
+      "start": 70.13,
       "end": 71.08,
       "text": "of"
     },
@@ -652,7 +652,7 @@
       "text": "that"
     },
     {
-      "start": 70.13,
+      "start": 71.08,
       "end": 77.88,
       "text": "it"
     },
@@ -759,8 +759,9 @@
       "text": "knocking"
     },
     {
-      "start": 71.1,
-      "end": 86.04,
+      "id": 170,
+      "start": 77.88,
+      "end": 78.34,
       "text": "people’s"
     },
     {
@@ -920,8 +921,9 @@
       "text": "With"
     },
     {
-      "start": 86.1,
-      "end": 89.62,
+      "id": 198,
+      "start": 88.1,
+      "end": 88.29,
       "text": "a"
     },
     {
@@ -937,9 +939,10 @@
       "text": "flourish"
     },
     {
-      "start": 88.29,
-      "end": 100.26,
-      "text": "cato"
+      "id": 201,
+      "start": 89.62,
+      "end": 90.08,
+      "text": "Cato"
     },
     {
       "id": 202,
@@ -1104,9 +1107,10 @@
       "text": "their"
     },
     {
-      "start": 90.08,
-      "end": 106.13,
-      "text": "degree"
+      "id": 229,
+      "start": 100.26,
+      "end": 100.94,
+      "text": "degree,"
     },
     {
       "id": 230,

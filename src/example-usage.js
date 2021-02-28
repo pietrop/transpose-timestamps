@@ -11,7 +11,7 @@ const mobyTranscript = require('../sample/data/moby-dick-chapter-1/words.json');
 const mobyText = fs.readFileSync('./sample/data/moby-dick-chapter-1/text.txt').toString();
 
 const res2 = transposeWords({ baseText: mobyText, transcript: mobyTranscript });
-// console.log(res2);
+console.log(res2);
 fs.writeFileSync('./sample/output/output.json', JSON.stringify(res2, null, 2));
 
 // const fs = require('fs');

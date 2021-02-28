@@ -1,4 +1,4 @@
-const calculateWordDuration = require('./calculate-word-duration');
+const calculateWordDuration = require('../calculate-word-duration');
 const splitWordsInText = require('../split-words-in-text');
 
 function calculateEndTimeFromStartTime({ text, startTime }) {

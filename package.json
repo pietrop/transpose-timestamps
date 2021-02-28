@@ -1,13 +1,26 @@
 {
   "name": "transpose-timestamps",
   "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A node module to align Speech To Text transcript data with human accurate base transcript. By transposing the words from the accurate text onto the time-codes of the STT data via diffing algo.",
+  "main": "src/index.js",
   "scripts": {
-    "test": "jest ."
+    "test": "jest .",
+    "publish:public": "npm run build && /bin/cp -rf package.json build/ && /bin/cp -rf README.md build/README.md  && npm publish build --access public",
+    "publish:dry:run": "npm publish -dry-run"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Pietro Passarelli",
+    "url": "http://pietropassarelli.com"
+  },
+  "contributors": [],
+  "bugs": {
+    "url": "https://github.com/pietrop/transpose-timestamps/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pietrop/transpose-timestamps"
+  },
+  "license": "MIT",
   "devDependencies": {
     "jest": "^26.6.3"
   },
